@@ -604,20 +604,60 @@ footer .fa:hover{
     color: #fe5880;
     border: 1px solid #fe5880;
 }
+footer .end{
+    text-align: right;
+}
 /* Start Footer Area */
 
 
 /* Start Media Quires For Mobile */
 @media (min-width: 320px) and (max-width: 576px){
+    .social-icon span{font-size: 12px;}
+    .social-icon i{font-size: 13px;}
+    .social-icon .fa-facebook{font-size: 10px;padding: 2px 4px;}
     .social-icon .paramiter{display: block;text-align: center !important;margin: 0 auto;}
     .social-icon .paremiter{display: block;text-align: center !important;margin: 0 auto;}
     .internet h4{text-align:center;font-size: 12px;}
     .internet h1{text-align: center;font-size: 30px;}
     .internet .off{padding-right: 0px;text-align: center !important;font-size: 12px ;}
-    .internet .btn-internet{
-        display:block;
-        margin: 20px auto 100px;
-    }
+    .internet .btn-internet{display:block;margin: 20px auto 100px;}
+    .web-hosting ul li{ text-align: center;}
+    .web-hosting h2{font-size: 32px;}
+    .web-hosting p{font-size: 13px;}
+    .feature h2{font-size: 30px;}
+    .feature p{font-size: 13px}
+    .user-friendly h2 {font-size: 30px;}
+    .user-friendly p{font-size: 13px;}
+    .customer h2 {font-size: 30px;}
+    .customer p{font-size: 13px;}
+    .girl-card .girl-head {text-align: center;}
+    .girl-card h6 {text-align: center;}
+    .girl-card .girl-pera {text-align: center;padding:0;}
+    .server-place h2{text-align:center;font-size: 30px;}
+    .server-place p{font-size: 12px;margin-bottom: 60px;}
+    .question h2{font-size: 30px;}
+    .question p{font-size: 13px;}
+    .question ul li{font-size: 11px;text-align: center;line-height: 35px;}
+    .question .second-down {padding-left: 56px;}
+    .third-down {padding-left: 76px;}
+    .fourth-down {padding-left: 86px;}
+    .fifth-down {padding-left: 6px;}
+    .sixth-down {padding-left: 165px;}
+    .list-title {width: 292px;margin:0 auto;}
+    .second-list-title {width: 292px;margin:0 auto;}
+    .popular h2 {font-size: 30px;}
+    .popular p {font-size: 13px;}
+    .popular .stat{margin-bottom: 50px;}
+    .pp-img::before {left: 30px;}
+    .pp-img .some{font-size: 14px;padding-right:90px;}
+    .dot{display: block;text-align: center;}
+    .vugol {text-align: center;margin-top: 50px;}
+    .last-title {margin: 0 auto;}
+    .dot-host p {text-align: center;}
+    .adhunik{display: block;text-align: center;}
+    footer{padding:30px 0;}
+    footer{text-align:center;}
+    footer .end{display: block;text-align:center;}
 /* Start Media Quires For Mobile */
 
 
