@@ -611,6 +611,13 @@ footer .fa:hover{
 @media (min-width: 320px) and (max-width: 576px){
     .social-icon .paramiter{display: block;text-align: center !important;margin: 0 auto;}
     .social-icon .paremiter{display: block;text-align: center !important;margin: 0 auto;}
+    .internet h4{text-align:center;font-size: 12px;}
+    .internet h1{text-align: center;font-size: 30px;}
+    .internet .off{padding-right: 0px;text-align: center !important;font-size: 12px ;}
+    .internet .btn-internet{
+        display:block;
+        margin: 20px auto 40px;
+    }
 /* Start Media Quires For Mobile */
 
 
