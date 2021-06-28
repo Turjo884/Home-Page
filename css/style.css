@@ -617,10 +617,11 @@ footer .end{
     .social-icon .fa-facebook{font-size: 10px;padding: 2px 4px;}
     .social-icon .paramiter{display: block;text-align: center !important;margin: 0 auto;}
     .social-icon .paremiter{display: block;text-align: center !important;margin: 0 auto;}
+    .internet .internet-head {padding-top: 10px;}
     .internet h4{text-align:center;font-size: 12px;}
     .internet h1{text-align: center;font-size: 30px;}
     .internet .off{padding-right: 0px;text-align: center !important;font-size: 12px ;}
-    .internet .btn-internet{display:block;margin: 20px auto 100px;}
+    .internet .btn-internet{display:block;margin: 20px auto 60px;}
     .web-hosting ul li{ text-align: center;}
     .web-hosting h2{font-size: 32px;}
     .web-hosting p{font-size: 13px;}
@@ -643,12 +644,12 @@ footer .end{
     .fourth-down {padding-left: 86px;}
     .fifth-down {padding-left: 6px;}
     .sixth-down {padding-left: 165px;}
-    .list-title {width: 292px;margin:0 auto;}
-    .second-list-title {width: 292px;margin:0 auto;}
+    .list-title {width: 300px;margin:0 auto;}
+    .second-list-title {width: 300px;margin:0 auto;}
     .popular h2 {font-size: 30px;}
     .popular p {font-size: 13px;}
     .popular .stat{margin-bottom: 50px;}
-    .pp-img::before {left: 30px;}
+    .pp-img::before {left: 40px;}
     .pp-img .some{font-size: 14px;padding-right:90px;}
     .dot{display: block;text-align: center;}
     .vugol {text-align: center;margin-top: 50px;}
