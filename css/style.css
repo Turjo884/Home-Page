@@ -607,6 +607,13 @@ footer .fa:hover{
 /* Start Footer Area */
 
 
+/* Start Media Quires For Mobile */
+@media (min-width: 320px) and (max-width: 576px){
+    .social-icon .paramiter{display: block;text-align: center !important;margin: 0 auto;}
+    .social-icon .paremiter{display: block;text-align: center !important;margin: 0 auto;}
+/* Start Media Quires For Mobile */
+
+
 
 
 
