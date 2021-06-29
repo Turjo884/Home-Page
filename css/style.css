@@ -654,6 +654,7 @@ footer .end{
     .dot{display: block;text-align: center;}
     .vugol {text-align: center;margin-top: 50px;}
     .last-title {margin: 0 auto;}
+    .dot-host {padding: 20px 0;}
     .dot-host p {text-align: center;}
     .adhunik{display: block;text-align: center;}
     footer{padding:30px 0;}
@@ -661,8 +662,8 @@ footer .end{
     footer .end{display: block;text-align:center;}
 /* Start Media Quires For Mobile */
 
-
-
-
-
-
+/* Start Media Quires For Tablet */
+@media (min-width: 576px) and (max-width: 768px){
+    .internet .internet-head {padding-top: 10px;}
+}
+/* End Media Quires For Tablet */
