@@ -610,13 +610,48 @@ footer .end{
 /* Start Footer Area */
 
 
+/* Start Media Quires For Tablet */
+@media (min-width: 576px) and (max-width: 768px){
+    .internet .internet-head {padding-top: 10px;}
+    .internet h4{text-align:center;}
+    .internet h1{text-align: center;}
+    .internet .off{padding-right: 0px;text-align: center !important;}
+    .internet .btn-internet{display:block;margin: 20px auto 60px;}
+    .web-hosting ul li{ text-align: center;}
+    .girl-card .girl-head {text-align: center;}
+    .girl-card h6 {text-align: center;}
+    .girl-card .girl-pera {text-align: center;padding:20px 30px;}
+    .list-title {width: 440px;margin:0 auto;}
+    .second-list-title {width: 440px;margin:0 auto;}
+    .question .first-down {padding-left: 117px;}
+    .question .second-down {padding-left: 114px;}
+    .third-down {padding-left: 143px;}
+    .fourth-down {padding-left: 156px;}
+    .fifth-down {padding-left: 39px;}
+    .sixth-down {padding-left: 270px;}
+    .pp-img::before {left: 169px;}
+    .pp-img .some {left: 154px;}
+    .popular .stat{margin-bottom: 50px;}
+    .dot{display: block;text-align: center;}
+    .vugol {text-align: center;margin-top: 50px;}
+    .last-title {margin: 0 auto;}
+    .dot-host {padding: 20px 0;}
+    .dot-host p {text-align: center;}
+    .adhunik{display: block;text-align: center;}
+    footer{padding:30px 0;}
+    footer{text-align:center;}
+    footer .end{display: block;text-align:center;}
+}
+/* Start Media Quires For Tablet */
+
+
 /* Start Media Quires For Mobile */
 @media (min-width: 320px) and (max-width: 576px){
     .social-icon span{font-size: 12px;}
     .social-icon i{font-size: 13px;}
     .social-icon .fa-facebook{font-size: 10px;padding: 2px 4px;}
-    .social-icon .paramiter{display: block;text-align: center !important;margin: 0 auto;}
-    .social-icon .paremiter{display: block;text-align: center !important;margin: 0 auto;}
+    .social-icon .paramiter{display: block;text-align: center !important;margin:0 auto;}
+    .social-icon .paremiter{display: block;text-align: center !important;margin:0 auto;}
     .internet .internet-head {padding-top: 10px;}
     .internet h4{text-align:center;font-size: 12px;}
     .internet h1{text-align: center;font-size: 30px;}
@@ -661,9 +696,3 @@ footer .end{
     footer{text-align:center;}
     footer .end{display: block;text-align:center;}
 /* Start Media Quires For Mobile */
-
-/* Start Media Quires For Tablet */
-@media (min-width: 576px) and (max-width: 768px){
-    .internet .internet-head {padding-top: 10px;}
-}
-/* End Media Quires For Tablet */
