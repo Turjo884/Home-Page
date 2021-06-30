@@ -685,7 +685,7 @@ footer .end{
     .popular p {font-size: 13px;}
     .popular .stat{margin-bottom: 50px;}
     .pp-img::before {left: 35px;}
-    .pp-img .some{font-size: 14px;padding-right:90px;}
+    .pp-img .some{font-size: 14px;padding-right:50px;}
     .dot{display: block;text-align: center;}
     .vugol {text-align: center;margin-top: 50px;}
     .last-title {margin: 0 auto;}
