@@ -610,6 +610,14 @@ footer .end{
 /* Start Footer Area */
 
 
+/* Start Responsive  For Large Device */
+@media (min-width: 1400px) and (max-width: 1600px){
+    .pp-img::before {left: 47px;}
+    .pp-img .some {left: 19px;}
+}
+/* Start Responsive  For Large Device */
+
+
 /* Start Media Quires For Tablet */
 @media (min-width: 576px) and (max-width: 768px){
     .internet .internet-head {padding-top: 10px;}
